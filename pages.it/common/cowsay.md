@@ -18,3 +18,7 @@
 - Stampa una mucca ASCII sballata che pensa:
 
 `cowthink -s "Sono solo una mucca, non un grande pensatore..."`
+
+- Usa il testo da standard input per il fumetto:
+
+`echo "Ciao!" | cowsay`

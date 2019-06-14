@@ -18,3 +18,7 @@
 - Print a stoned thinking ASCII cow:
 
 `cowthink -s "I'm just a cow, not a great thinker ..."`
+
+- Use text from standard input for the balloon:
+
+`echo "Hello!" | cowsay`
